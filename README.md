@@ -4,7 +4,7 @@ A small C# / .NET desktop utility that lives in the system tray and reminds you 
 
 What it does
 Runs quietly in the system tray, no main window
-Two independent timers: one for eye breaks (default: every 20 minutes), one for movement breaks (default: every 60 minutes)
+Two independent timers: one for eye breaks (default: every 1 minute), one for movement breaks (default: every 3 minutes)
 Shows a system notification (balloon tip) when it's time for a break
 Logs each break to a local SQLite database, so you can track how consistent you've been during the day
 Tech stack
