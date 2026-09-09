@@ -27,6 +27,6 @@ Clone the repository
 Open the solution in Visual Studio
 Restore NuGet packages (Microsoft.Data.Sqlite, SQLitePCLRaw.bundle_e_sqlite3)
 Run the project — the app will appear as an icon in the system tray
-Notes
 
+Notes
 This is a personal utility project built to practice layered architecture and dependency injection in .NET. It's intentionally simple: no automated tests yet, break intervals are currently hardcoded rather than user-configurable, and error handling is minimal. These would be the natural next steps to make it more robust.
